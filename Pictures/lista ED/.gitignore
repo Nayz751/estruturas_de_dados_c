@@ -1,0 +1,11 @@
+# Gradle
+.gradle/
+build/
+
+# Arquivos compilados
+*.class
+*.o
+*.exe
+
+# Outros
+*.log

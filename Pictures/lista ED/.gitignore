@@ -1,11 +1,10 @@
-# Gradle
-.gradle/
-build/
+# Ignorar configurações do VS Code
+.vscode/
 
-# Arquivos compilados
-*.class
+# Ignorar arquivos compilados ou temporários
 *.o
 *.exe
+*.class
 
-# Outros
-*.log
+# Ignorar arquivos zip ou grandes
+*.zip
